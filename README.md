@@ -1,1 +1,1 @@
-<h2>👋<a href="https://stanleylim.me/">동우's Github</a></h2>
+<h2>👋 동우's Github 입니다.</h2>
