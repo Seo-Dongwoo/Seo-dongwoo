@@ -44,5 +44,4 @@
 
 <div align=center>
 
-![Seo-dongwoo's github stats](https://github-readme-stats.vercel.app/api?username=Seo-dongwoo&show_icons=true)
-
+[![Seo-dongwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-dongwoo)](https://github.com/anuraghazra/github-readme-stats)
