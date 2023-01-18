@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<Strong>📧 Emai
+<Strong>📧 Email
 <br>
 <Strong>ehdrntdnzzz@naver.com
 </p>
