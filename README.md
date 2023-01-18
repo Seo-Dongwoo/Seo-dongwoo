@@ -2,27 +2,32 @@
 
 <p align="center">
 <br>
-<Strong>📧Email📧</Strong>
+<Strong>📧 Emai
 <br>
-<br>ehdrntdnzzz@naver.com<br>
+<Strong>ehdrntdnzzz@naver.com
 </p>
 
 <br>
 
 <p align="center">
-반갑습니다👐<br>
-제 이름은 서동우이고 프론트엔드 개발을 하고있습니다.<br>
-이곳은 제가 개발자로서 꿈을 펼치는 곳입니다.
+❤ 어서오세요 ❤<br>
+제 이름은 서동우입니다.
+<br />
+프론트엔드 개발을 하고있습니다.
+<br>
+여러분에게 도움이 되는 개발자가 되고 싶습니다.
 <br>
 </p>
 
 <br>
 
 <p align="center">
-    <Strong>💡Tech Stack💡</Strong><br>
+    <Strong>💡 Tech Stack 💡</Strong><br>
 </p>
 
 <p align="center" display="inline-block"> 
+<Strong>자주 쓰는 Tech</Strong>
+<br />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -37,7 +42,6 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p><br>
 
 <br>
