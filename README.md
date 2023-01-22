@@ -4,7 +4,7 @@
 <br>
 <Strong>📧 Email
 <br>
-<Strong>ehdrntdnzzz@naver.com
+<Strong>ehdrntdn@gmail.com
 </p>
 
 <br>
